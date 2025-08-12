@@ -1,15 +1,15 @@
 {
-    "name":"Example Listing",
+    "name":"yozura VPM Listing",
     "id":"com.vrchat.example-listing",
-    "url":"https://yozura.github.io/yozura-listing/index.json",
+    "url":"https://vpm.yo2ura.net/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
+        "email":"",
+        "name":"yo2ura",
         "url":"https://hello.vrchat.com"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"yozura VPM packages",
     "infoLink":{
-        "url":"http://github.com/yozura/yozura-listing",
+        "url":"http://github.com/yo2ura/vpm-repos",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
